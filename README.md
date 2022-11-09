@@ -12,10 +12,11 @@ Steps
 
 3. Both the users can see there message each other.
 
-https://ibb.co/YtvFrR3
+### Screenshots 
 
-![Step 1](
-https://ibb.co/YtvFrR3)
+![Step 1)](https://user-images.githubusercontent.com/86919026/200938012-c50e5174-2165-4f1c-bff7-1716174748b9.png)
+
+
 
 
 
