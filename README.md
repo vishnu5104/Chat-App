@@ -1,6 +1,6 @@
-#Decentralized chat app
+# Decentralized chat app
 
-##About the project
+## About the project
 
 Users can chat with there friends without worrying about there privacy because it is fully decentralized where the user is the only owner of the webpage No other third party can view or manipulate the message.
 
