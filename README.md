@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+#Decentralized chat app
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+##About the project
 
-Try running some of the following tasks:
+Users can chat with there friends without worrying about there privacy because it is fully decentralized where the user is the only owner of the webpage No other third party can view or manipulate the message.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Steps 
+
+1. Users need to create there account with MetaMask 
+
+2. After adding a particular friend the user can message to them
+
+3. Both the users can see there message each other.
+
+
+
