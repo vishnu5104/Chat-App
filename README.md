@@ -37,6 +37,8 @@ Steps
 ![Screenshot (314)](https://user-images.githubusercontent.com/86919026/200938791-d41a4806-c455-4c1c-8f2c-6e87efa026ff.png)
 
 
+Full website is hosted on : https://decentralized-chat-app-brown.vercel.app
+
 
 
 
